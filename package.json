@@ -1,0 +1,42 @@
+{
+  "name": "qpm_balance",
+  "version": "0.0.1",
+  "description": "balance functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantumpayments/balance.git"
+  },
+  "keywords": [
+    "balance",
+    "payments"
+  ],
+  "author": "Melvin Carvalho <quantumpayments@gmail.com> (https://melvincarvalho.com/#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quantumpayments/balance/issues"
+  },
+  "homepage": "https://github.com/quantumpayments/balance#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "commander": "^2.9.0",
+    "cors": "^2.7.1",
+    "dateformat": "^1.0.12",
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "http-error": "0.0.6",
+    "negotiator": "^0.6.1",
+    "qpm_media": "0.0.8",
+    "sequelize": "^3.23.2",
+    "solidbot": "0.0.3",
+    "vhost": "^3.0.2",
+    "wc_db": "0.0.1",
+    "wc_express": "0.0.2",
+    "webcredits": "^0.1.10",
+    "webid": "^0.3.7"
+  }
+}
