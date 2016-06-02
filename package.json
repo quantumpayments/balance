@@ -1,6 +1,6 @@
 {
   "name": "qpm_balance",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "balance functions",
   "main": "index.js",
   "scripts": {
@@ -30,13 +30,13 @@
     "express-session": "^1.13.0",
     "http-error": "0.0.6",
     "negotiator": "^0.6.1",
-    "qpm_media": "0.0.8",
-    "qpm_ui": "0.0.16",
+    "qpm_media": "0.0.17",
+    "qpm_ui": "0.0.19",
     "sequelize": "^3.23.2",
     "solidbot": "0.0.3",
     "vhost": "^3.0.2",
     "wc_db": "0.0.1",
-    "wc_express": "0.0.2",
+    "wc_express": "0.0.3",
     "webcredits": "^0.1.10",
     "webid": "^0.3.7"
   }
